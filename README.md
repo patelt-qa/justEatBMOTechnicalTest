@@ -24,8 +24,6 @@ This project is created with the use of following Tools.
 ### Setup the project
 - Download the zip file from Git Repo
 - Extract 'justEatTechnicalTest' project and save it on local machine
-- Copy the path of 'chromedriver.exe' from projectData folder of the downloaded project
-- Paste this path of 'chromedriver.exe' in 'StepDefination.java' in stepDefinations folder of the downloaded project
 
 ### Feature(s)
 - Use the application 'https://www.just-eat.co.uk/' to find restaurants, So that I can order food as a hungry customer, I want to be able to find restaurants in my area
