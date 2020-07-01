@@ -19,7 +19,7 @@ This project is created with the use of following Tools.
 - Verify installation of JAVA & Maven from Command Prompt
 
 ### Clone
-- Clone the repository for this project to your local machine using 'https://github.com/tarak7929/justEatProject'
+- Clone the repository for this project to your local machine using 'https://github.com/patelt-qa/justEatBMOTechnicalTest'
 
 ### Setup the project
 - Download the zip file from Git Repo
